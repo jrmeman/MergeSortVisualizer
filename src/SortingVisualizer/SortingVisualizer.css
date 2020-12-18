@@ -1,0 +1,11 @@
+.array-display {
+    position: absolute;
+    left: 500px;
+    /* top: 100px; */
+  }
+  
+.array-bar {
+    width: 10px;
+    display: inline-block;
+    margin: 0 1px;
+  }
